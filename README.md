@@ -1,1 +1,8 @@
 # Azazma-company
+# https://www.figma.com/design/lyXOQdb1yTfMzTDmh6R39x/Untitled?node-id=0-1&t=SqvNUcU1Rhtz14rQ-1
+## A personal website has been created for an industrial worker specializing in tile installation. The website offers a comprehensive range of types of wood, tiles, and carpets. The site allows you to choose the type you want and easily arrange an appointment for its installation or maintenance in your home.
+
+## Site services include:Providing all types of wood: a wide variety of wood to suit all tastes and decors.Providing various types of tiles: a variety of high quality tiles for floors and walls.View a collection of carpets: multiple options of carpets in various colors and designs.
+## Book appointments:Through the website, you can book a suitable appointment to install or maintain flooring in your home. Just choose the desired type and specify the date and time that suits you, and your request will be dealt with efficiently and professionally.
+
+### Advantages:Ease of use: A simple and easy user interface that allows you to quickly choose the service you need.Save time: You can arrange everything from the comfort of your home, without having to search for technicians or materials.Quality of service: Executing the work with the highest standards of quality and professionalism to ensure your complete satisfaction.Visit our website now and benefit from our various services in installing and maintaining flooring, and make your home more beautiful and comfortable.
